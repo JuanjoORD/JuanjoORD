@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I'm JuanjoORD
 - 👯 I’m looking to collaborate on any project
-- 🅰️ I can help you with Angular projects
+- 🅰️ I can help you with Angular/Node.js projects
 - 📫 How to reach me: juanjo97.ord@gmail.com
 
 
