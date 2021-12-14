@@ -1,4 +1,9 @@
 ### Hi there 👋
+### I'm JuanjoORD
+- 👯 I’m looking to collaborate on any project
+- 🤔 I’m looking for help with Angular projects
+- 📫 How to reach me: juanjo97.ord@gmail.com
+
 
 <!--
 **JuanjoORD/JuanjoORD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
