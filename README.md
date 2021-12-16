@@ -3,7 +3,7 @@
 - 👯 I’m looking to collaborate on any project
 - 🅰️ I can help you with Angular/Node.js projects
 - 📫 How to reach me: juanjo97.ord@gmail.com
-- ![imagen](https://user-images.githubusercontent.com/39684335/146401745-1b05e603-c05c-4ae9-bc27-2e9448577ca0.png): https://www.linkedin.com/in/juanjoseord/
+- ➡️ LinkedIn: https://www.linkedin.com/in/juanjoseord/
 
 
 
