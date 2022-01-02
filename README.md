@@ -4,7 +4,7 @@
 - 🅰️ I can help you with Angular/Node.js projects
 - 📫 How to reach me: juanjo97.ord@gmail.com
 - ➡️ LinkedIn: https://www.linkedin.com/in/juanjoseord/
-- ❐ Portfolio: https://juanordonez.netlify.app/inicio
+- ❐ Portfolio: https://juanjoseordonez.herokuapp.com/
 
 
 
