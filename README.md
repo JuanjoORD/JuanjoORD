@@ -1,9 +1,9 @@
 ### Hi there 👋
 ### I'm JuanjoORD
 - 👯 I’m looking to collaborate on any project
-- 🅰️ I can help you with Angular/Node.js projects
+- 🅰️ I can help you with Angular/Node.js projects, currently working as Backend Developer
 - ➡️ LinkedIn: https://www.linkedin.com/in/juanjoseord/
-- ❐ Portfolio: https://juanjoseordonez.herokuapp.com/
+- ❐ Portfolio: https://juanordonez.netlify.app/inicio
 
 
 
